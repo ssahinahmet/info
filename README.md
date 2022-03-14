@@ -8,7 +8,7 @@ Hi my name is, Ahmet. I'm 18 years old. I started software development 3 year ag
     <a href="https://github.com/ssahinahmet" target="_blank"><img src="https://shields.io/badge/ssahinahmet-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~ahmets" target="_blank"><img src="https://shields.io/badge/ssahinahmet-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/wfuGMBzan8" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://sahinahmet.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+    <a href="https://sahinahmet.com" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
 
 ## 💻 Technologies I Use
