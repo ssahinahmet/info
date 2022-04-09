@@ -14,5 +14,5 @@ Makarna WebSite: Websites of my Pasta Bots
 I rarely write on my Medium is <a href="https://medium.com/@ssahinahmet">@ssahinahmet</a>.
 My Twitter is <a href="https://twitter.com/ssahinahmet">@ssahinahmet</a>.
 
-#.contact
+# .contact
 You can reach me at <a href="mailto:info@sahinahmet.com">info@sahinahmet.com</a>.
