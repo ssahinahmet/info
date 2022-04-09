@@ -1,4 +1,4 @@
-#.init
+## .init
 Hi, I'm Ahmet Şahin. I've been writing code for the web since I was 11 years old.
 Some of my professional works is listed on my portfolio.
 
