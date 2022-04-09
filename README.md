@@ -9,7 +9,7 @@ But I have a few non-popular hobby open source projects:<br>
 Makarna Music: My discord music bot<br>
 Makarna Guard: My discord guard bot<br>
 Makarna WebSite: Websites of my Pasta Bots<br>
-<br>
+
 ### .text
 I rarely write on my Medium is <a href="https://medium.com/@ssahinahmet">@ssahinahmet</a>. <br>
 My Twitter is <a href="https://twitter.com/ssahinahmet">@ssahinahmet</a>.<br>
